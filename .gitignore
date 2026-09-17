@@ -1,0 +1,4 @@
+.envrclone.conf
+.env
+*.log
+backups/
