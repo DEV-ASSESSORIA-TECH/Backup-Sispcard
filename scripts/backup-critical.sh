@@ -1,4 +1,5 @@
 #!/bin/bash
+export TZ="America/Cuiaba"
 
 set -euo pipefail
 
